@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Abro browser]]>
+    </line>
+    <line>
+      <![CDATA[maximizamos la vetana]]>
+    </line>
+    <line>
+      <![CDATA[ir a Wikipedia]]>
+    </line>
+    <line>
+      <![CDATA[La caja de Busqueda fue mostrada]]>
+    </line>
+    <line>
+      <![CDATA[Se tipea la palabraSELENIUM]]>
+    </line>
+    <line>
+      <![CDATA[Presionar enter]]>
+    </line>
+    <line>
+      <![CDATA[Tiempo de espera de 3 segundos]]>
+    </line>
+    <line>
+      <![CDATA[Mostrar titulo en consola]]>
+    </line>
+    <line>
+      <![CDATA[Verificar que se muestre tituloSelenium]]>
+    </line>
+    <line>
+      <![CDATA[Cerrar navegador]]>
+    </line>
+    <line>
+      <![CDATA[Cerrando el browser]]>
+    </line>
+    <line>
+      <![CDATA[Abro browser]]>
+    </line>
+    <line>
+      <![CDATA[maximizamos la vetana]]>
+    </line>
+    <line>
+      <![CDATA[ir a Wikipedia]]>
+    </line>
+    <line>
+      <![CDATA[La caja de Busqueda fue mostrada]]>
+    </line>
+    <line>
+      <![CDATA[Se tipea la palabraLIONEL MESSI]]>
+    </line>
+    <line>
+      <![CDATA[Presionar enter]]>
+    </line>
+    <line>
+      <![CDATA[Tiempo de espera de 3 segundos]]>
+    </line>
+    <line>
+      <![CDATA[Mostrar titulo en consola]]>
+    </line>
+    <line>
+      <![CDATA[Verificar que se muestre tituloLionel Messi]]>
+    </line>
+    <line>
+      <![CDATA[Cerrar navegador]]>
+    </line>
+    <line>
+      <![CDATA[Cerrando el browser]]>
+    </line>
+    <line>
+      <![CDATA[Abro browser]]>
+    </line>
+    <line>
+      <![CDATA[maximizamos la vetana]]>
+    </line>
+    <line>
+      <![CDATA[ir a Wikipedia]]>
+    </line>
+    <line>
+      <![CDATA[La caja de Busqueda fue mostrada]]>
+    </line>
+    <line>
+      <![CDATA[Se tipea la palabraAFA]]>
+    </line>
+    <line>
+      <![CDATA[Presionar enter]]>
+    </line>
+    <line>
+      <![CDATA[Tiempo de espera de 3 segundos]]>
+    </line>
+    <line>
+      <![CDATA[Mostrar titulo en consola]]>
+    </line>
+    <line>
+      <![CDATA[Verificar que se muestre tituloAsociación del Fútbol Argentino]]>
+    </line>
+    <line>
+      <![CDATA[Cerrar navegador]]>
+    </line>
+    <line>
+      <![CDATA[Cerrando el browser]]>
+    </line>
+    <line>
+      <![CDATA[Abro browser]]>
+    </line>
+    <line>
+      <![CDATA[maximizamos la vetana]]>
+    </line>
+    <line>
+      <![CDATA[ir a Wikipedia]]>
+    </line>
+    <line>
+      <![CDATA[La caja de Busqueda fue mostrada]]>
+    </line>
+    <line>
+      <![CDATA[Se tipea la palabraBUENOS AIRES]]>
+    </line>
+    <line>
+      <![CDATA[Presionar enter]]>
+    </line>
+    <line>
+      <![CDATA[Tiempo de espera de 3 segundos]]>
+    </line>
+    <line>
+      <![CDATA[Mostrar titulo en consola]]>
+    </line>
+    <line>
+      <![CDATA[Verificar que se muestre tituloBuenos Aires]]>
+    </line>
+    <line>
+      <![CDATA[Cerrar navegador]]>
+    </line>
+    <line>
+      <![CDATA[Cerrando el browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-11-07T08:59:03 ART" name="Suite" finished-at="2023-11-07T08:59:30 ART" duration-ms="26817">
+    <groups>
+    </groups>
+    <test started-at="2023-11-07T08:59:03 ART" name="TestSuiteChrome" finished-at="2023-11-07T08:59:30 ART" duration-ms="26817">
+      <class name="com.selenium.test.test">
+        <test-method is-config="true" signature="precondicion()[pri:0, instance:com.selenium.test.test@a1153bc]" started-at="2023-11-07T08:59:03 ART" name="precondicion" finished-at="2023-11-07T08:59:07 ART" duration-ms="4319" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Abro browser]]>
+            </line>
+            <line>
+              <![CDATA[maximizamos la vetana]]>
+            </line>
+            <line>
+              <![CDATA[ir a Wikipedia]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- precondicion -->
+        <test-method signature="ValidarBusquedaWikipedia(java.lang.String,java.lang.String)[pri:0, instance:com.selenium.test.test@a1153bc]" started-at="2023-11-07T08:59:07 ART" name="ValidarBusquedaWikipedia" description="Validar que las busquedas en Wikipedia funcionan" data-provider="datos" finished-at="2023-11-07T08:59:10 ART" duration-ms="2205" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SELENIUM]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[La caja de Busqueda fue mostrada]]>
+            </line>
+            <line>
+              <![CDATA[Se tipea la palabraSELENIUM]]>
+            </line>
+            <line>
+              <![CDATA[Presionar enter]]>
+            </line>
+            <line>
+              <![CDATA[Tiempo de espera de 3 segundos]]>
+            </line>
+            <line>
+              <![CDATA[Mostrar titulo en consola]]>
+            </line>
+            <line>
+              <![CDATA[Verificar que se muestre tituloSelenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidarBusquedaWikipedia -->
+        <test-method is-config="true" signature="postcondicion()[pri:0, instance:com.selenium.test.test@a1153bc]" started-at="2023-11-07T08:59:10 ART" name="postcondicion" finished-at="2023-11-07T08:59:10 ART" duration-ms="722" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Cerrar navegador]]>
+            </line>
+            <line>
+              <![CDATA[Cerrando el browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postcondicion -->
+        <test-method is-config="true" signature="precondicion()[pri:0, instance:com.selenium.test.test@a1153bc]" started-at="2023-11-07T08:59:10 ART" name="precondicion" finished-at="2023-11-07T08:59:14 ART" duration-ms="3668" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Abro browser]]>
+            </line>
+            <line>
+              <![CDATA[maximizamos la vetana]]>
+            </line>
+            <line>
+              <![CDATA[ir a Wikipedia]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- precondicion -->
+        <test-method signature="ValidarBusquedaWikipedia(java.lang.String,java.lang.String)[pri:0, instance:com.selenium.test.test@a1153bc]" started-at="2023-11-07T08:59:14 ART" name="ValidarBusquedaWikipedia" description="Validar que las busquedas en Wikipedia funcionan" data-provider="datos" finished-at="2023-11-07T08:59:16 ART" duration-ms="2300" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LIONEL MESSI]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lionel Messi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[La caja de Busqueda fue mostrada]]>
+            </line>
+            <line>
+              <![CDATA[Se tipea la palabraLIONEL MESSI]]>
+            </line>
+            <line>
+              <![CDATA[Presionar enter]]>
+            </line>
+            <line>
+              <![CDATA[Tiempo de espera de 3 segundos]]>
+            </line>
+            <line>
+              <![CDATA[Mostrar titulo en consola]]>
+            </line>
+            <line>
+              <![CDATA[Verificar que se muestre tituloLionel Messi]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidarBusquedaWikipedia -->
+        <test-method is-config="true" signature="postcondicion()[pri:0, instance:com.selenium.test.test@a1153bc]" started-at="2023-11-07T08:59:16 ART" name="postcondicion" finished-at="2023-11-07T08:59:17 ART" duration-ms="717" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Cerrar navegador]]>
+            </line>
+            <line>
+              <![CDATA[Cerrando el browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postcondicion -->
+        <test-method is-config="true" signature="precondicion()[pri:0, instance:com.selenium.test.test@a1153bc]" started-at="2023-11-07T08:59:17 ART" name="precondicion" finished-at="2023-11-07T08:59:20 ART" duration-ms="3529" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Abro browser]]>
+            </line>
+            <line>
+              <![CDATA[maximizamos la vetana]]>
+            </line>
+            <line>
+              <![CDATA[ir a Wikipedia]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- precondicion -->
+        <test-method signature="ValidarBusquedaWikipedia(java.lang.String,java.lang.String)[pri:0, instance:com.selenium.test.test@a1153bc]" started-at="2023-11-07T08:59:20 ART" name="ValidarBusquedaWikipedia" description="Validar que las busquedas en Wikipedia funcionan" data-provider="datos" finished-at="2023-11-07T08:59:23 ART" duration-ms="2175" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AFA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Asociación del Fútbol Argentino]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at com.seleniumPages.wikiResultPage.validarTitulo(wikiResultPage.java:19)
+at com.selenium.test.test.ValidarBusquedaWikipedia(test.java:72)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[La caja de Busqueda fue mostrada]]>
+            </line>
+            <line>
+              <![CDATA[Se tipea la palabraAFA]]>
+            </line>
+            <line>
+              <![CDATA[Presionar enter]]>
+            </line>
+            <line>
+              <![CDATA[Tiempo de espera de 3 segundos]]>
+            </line>
+            <line>
+              <![CDATA[Mostrar titulo en consola]]>
+            </line>
+            <line>
+              <![CDATA[Verificar que se muestre tituloAsociación del Fútbol Argentino]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidarBusquedaWikipedia -->
+        <test-method is-config="true" signature="postcondicion()[pri:0, instance:com.selenium.test.test@a1153bc]" started-at="2023-11-07T08:59:23 ART" name="postcondicion" finished-at="2023-11-07T08:59:23 ART" duration-ms="656" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Cerrar navegador]]>
+            </line>
+            <line>
+              <![CDATA[Cerrando el browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postcondicion -->
+        <test-method is-config="true" signature="precondicion()[pri:0, instance:com.selenium.test.test@a1153bc]" started-at="2023-11-07T08:59:23 ART" name="precondicion" finished-at="2023-11-07T08:59:27 ART" duration-ms="3510" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Abro browser]]>
+            </line>
+            <line>
+              <![CDATA[maximizamos la vetana]]>
+            </line>
+            <line>
+              <![CDATA[ir a Wikipedia]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- precondicion -->
+        <test-method signature="ValidarBusquedaWikipedia(java.lang.String,java.lang.String)[pri:0, instance:com.selenium.test.test@a1153bc]" started-at="2023-11-07T08:59:27 ART" name="ValidarBusquedaWikipedia" description="Validar que las busquedas en Wikipedia funcionan" data-provider="datos" finished-at="2023-11-07T08:59:29 ART" duration-ms="2115" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[BUENOS AIRES]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Buenos Aires]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[La caja de Busqueda fue mostrada]]>
+            </line>
+            <line>
+              <![CDATA[Se tipea la palabraBUENOS AIRES]]>
+            </line>
+            <line>
+              <![CDATA[Presionar enter]]>
+            </line>
+            <line>
+              <![CDATA[Tiempo de espera de 3 segundos]]>
+            </line>
+            <line>
+              <![CDATA[Mostrar titulo en consola]]>
+            </line>
+            <line>
+              <![CDATA[Verificar que se muestre tituloBuenos Aires]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidarBusquedaWikipedia -->
+        <test-method is-config="true" signature="postcondicion()[pri:0, instance:com.selenium.test.test@a1153bc]" started-at="2023-11-07T08:59:29 ART" name="postcondicion" finished-at="2023-11-07T08:59:30 ART" duration-ms="858" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Cerrar navegador]]>
+            </line>
+            <line>
+              <![CDATA[Cerrando el browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postcondicion -->
+      </class> <!-- com.selenium.test.test -->
+    </test> <!-- TestSuiteChrome -->
+  </suite> <!-- Suite -->
+</testng-results>
